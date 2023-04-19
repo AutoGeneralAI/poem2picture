@@ -1,6 +1,6 @@
 # poem2picture
 
-代码说明参考：
+Code Description Reference:
 
 https://www.backendcloud.cn/docs/general-ai/poetry
 
